@@ -90,8 +90,8 @@ docs:
     [cityjson.github.io/duckdb-cityjson](https://cityjson.github.io/duckdb-cityjson/).
     For more information on the CityJSON format, see https://www.cityjson.org/.
 
-extension_star_count: 11
-extension_star_count_pretty: 11
+extension_star_count: 12
+extension_star_count_pretty: 12
 extension_download_count: 831
 extension_download_count_pretty: 831
 image: '/images/community_extensions/social_preview/preview_community_extension_cityjson.png'

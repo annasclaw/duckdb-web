@@ -234,8 +234,8 @@ docs:
     [repository](https://github.com/tobilg/duckdb-differential) for the SQL reference, the
     lifecycle guide, branch merging and the storage format.
 
-extension_star_count: 49
-extension_star_count_pretty: 49
+extension_star_count: 50
+extension_star_count_pretty: 50
 extension_download_count: 701
 extension_download_count_pretty: 701
 image: '/images/community_extensions/social_preview/preview_community_extension_differential.png'
